@@ -1,0 +1,22 @@
+{
+  "name": "buhari.js",
+  "version": "0.0.2",
+  "description": "This package does nothing. Shouldn't Nigerian JavaScript developers make  a package called Buhari? I think they should",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubie/buhari.js.git"
+  },
+  "keywords": [
+    "buhari"
+  ],
+  "author": "Xuaib <me@shuaib.xyz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubie/buhari.js/issues"
+  },
+  "homepage": "https://github.com/shubie/buhari.js#readme"
+}
